@@ -1,3 +1,5 @@
 comment:
   layout: "reach,diff,flags,tree,betaprofiling"
   show_critical_paths: true
+codecov:
+  token: "a5fc7509-05e8-4ff1-8655-c8b1c9d9e4a3"

@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.10.6, pytest-7.1.2, pluggy-1.0.0
+rootdir: /Users/jasonford/Source/codecov/impact-analysis-example-python, configfile: ov-report=xml
+collected 1 item
+
+example-app/utils/tests/test_time.py .                                   [100%]
+
+============================== 1 passed in 0.01s ===============================
